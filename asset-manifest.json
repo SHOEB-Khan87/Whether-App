@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Whether-App/static/css/main.31d6cfe0.css",
+    "main.js": "/Whether-App/static/js/main.f7faf715.js",
+    "static/js/787.99807e15.chunk.js": "/Whether-App/static/js/787.99807e15.chunk.js",
+    "index.html": "/Whether-App/index.html",
+    "main.f7faf715.js.map": "/Whether-App/static/js/main.f7faf715.js.map",
+    "787.99807e15.chunk.js.map": "/Whether-App/static/js/787.99807e15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.f7faf715.js"
+  ]
+}
